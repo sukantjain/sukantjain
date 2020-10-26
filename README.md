@@ -10,3 +10,19 @@
 
 
 - 🔭 I’m currently working on Remote Sensing, GIS, Hydrology, Google Earth Engine ...
+
+---
+
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+- [Google Earth Engine Plugin in QGIS | Installation](https://youtu.be/uRgBp3XKEYo)
+- [Graphical Modeler in QGIS | Simplfy your complex GIS workflow](https://youtu.be/hjBS2BvoBGs)
+- [Elevation Profile | Terrain Profile in QGIS](https://youtu.be/8M497mhZFiY)
+- [Clipping Multiple Raster in QGIS | Batch Processing | With and without Python](https://youtu.be/6AQi7bm13n8)
+- [Watershed Delineation in QGIS (Quickest & Easiest Tutorial)](https://youtu.be/2fvy9xtAHc4)
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://www.youtube.com/c/GeoGuru1)
+
+---
